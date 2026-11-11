@@ -1,0 +1,8 @@
+# 备份文件
+*.bak
+
+# 未下载完成的临时文件
+*.下载
+
+# 导出缓存
+editor_files/saved_resource.html
